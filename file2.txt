@@ -2,3 +2,4 @@ Added a second file.
 added second line in second file.
 added line form second branch
 added line from remote master
+Added new line form third branch
