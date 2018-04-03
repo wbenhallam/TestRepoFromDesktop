@@ -1,5 +1,5 @@
 Added a second file.
 added second line in second file.
 added line form second branch
-Added new line form third branch, and edited it again
-add a new line again
+added line from remote master
+Added new line form third branch
