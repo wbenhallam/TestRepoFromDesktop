@@ -4,4 +4,4 @@ additional mods from third branch, with some edits again
 add third line from remote master
 added line form remote again
 test = 5 + 10;
-
+test2 = 6*4;
