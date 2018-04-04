@@ -5,3 +5,4 @@ add third line from remote master
 added line form remote again
 test = 5 + 10;
 test 2 = 10/10;
+result = test + test2;
